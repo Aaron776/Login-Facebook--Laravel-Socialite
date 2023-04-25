@@ -1,0 +1,2 @@
+la base de datos usada para este ejemplo se llama socialite
+link del video: https://www.youtube.com/watch?v=417fuWV3O_k&list=LL&index=8&t=878s
